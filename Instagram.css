@@ -1,0 +1,198 @@
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+header {
+    border:1px solid #cccccc;
+    width:350px;
+    height:410px;
+    margin:0px auto;
+    margin-top:125px;
+    margin-bottom:10px;
+    overflow: hidden;
+}
+
+header > #title {
+    text-align: center;
+    margin-top:30px;
+}
+
+header > #title > img {
+   width: 40px auto 30px;
+   max-width: 200px;
+}
+
+header > #content {
+    border:0px solid blue;
+}
+
+header > #content > #information {
+    text-align: center;
+}
+
+header > #content > #information > input,
+header > #content > #information > button {
+    border:1px solid #cccccc;
+    width:270px;
+    height:30px;
+    margin:5px;
+    border-radius: 3px 3px 3px 3px;
+}
+
+header > #content > #information a {
+    color:white;
+}
+
+header > #content > #information > input:nth-child(1) {
+    margin-top : 30px;
+}
+
+header > #content > #information > input:nth-child(1),
+header > #content > #information > input:nth-child(2) {
+    background-color: rgb(245, 249, 250);
+    font-size:0.8em;
+}
+
+header > #content > #information > button{
+    background-color: #00aeff;
+    color:white;
+    font-weight:bold;
+    font-size: 0.9em;
+    margin-top: 10px;
+}
+
+header > #content > #or {
+    overflow: hidden;
+}
+
+header > #content > #or {
+    margin-top: 15px;
+}
+
+header > #content > #or > .lefthr {
+    float:left;
+    margin-left:40px;
+    width:28%;
+}
+
+header > #content > #or > div {
+    float:left;
+    width:10%;
+    font-size: 13px;
+    box-sizing: border-box;
+    text-align: center;
+
+    color: #999999;
+    font-size: 14px;
+    font-weight: 700;
+    margin:0px 15px;
+}
+
+
+header > #content > #or > .righthr {
+    float:left;
+    margin-right:40px;
+    width:29%;
+}
+
+header > #content > button {
+    border:0px solid #cccccc;
+    height:30px;
+    display:block;
+    margin:0px auto;
+    margin-top:20px;
+    background-color:white;
+}
+
+header > #content > button > a {
+    margin-top: 10px;
+    margin-bottom:10px;
+  
+    height: 37px;
+    
+    border: 0px;
+    border-radius: 5px;
+    color: #00628f;
+    font-size: 1em;
+    font-weight: 700;
+}
+
+header > #content > #forget {
+    border:0px solid green;
+    text-align: center;
+    margin-top:15px;
+}
+
+header > #content > #forget > a{
+    color:black;
+    font-size:0.8em;
+}
+
+#account{
+    width:350px;
+    height:60px;
+    line-height:60px;
+    text-align: center;
+    margin-top:0px;
+    border:1px solid #cccccc;
+    margin:0px auto;
+}
+
+#account > div {
+    font-size:0.9em;
+}
+
+#account a{
+    color:rgb(89, 158, 236);
+    font-weight: bold;
+    font-family:신명조;
+    font-size:0.95em;
+}
+
+#app {
+    border:0px solid red;
+    margin:0px auto;
+    margin-top:15px;
+}
+
+#app > div {
+    text-align: center;
+    font-size:0.9em;
+}
+
+#app > div > a > img {
+    max-width:140px;
+    margin-top:20px;
+}
+
+footer {
+    width:1050px;
+    border:0px solid #cccccc;
+    margin:0px auto;
+    text-align: center;
+    margin-top:150px;
+    font-size: 0.8em;
+    color:#999999;
+}
+
+footer li {
+    float:left;
+    text-align: center;
+    margin-right:20px;
+}
+
+footer li>a {
+    color:#999999;
+}
+
+footer .meta {
+    margin-left:17px;
+}
+
+footer > .language > span {
+    margin-left:5px;
+}

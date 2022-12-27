@@ -8,12 +8,12 @@
 <br>
 <div>
 	<h2>원본 페이지</h2>
-	<img src=""/>
+	<img src="https://user-images.githubusercontent.com/94223526/209671976-9a53f68f-62ee-473e-b48e-c1c4bf746bce.PNG"/>
 </div>
 <br>
 <div>
-  <h2>프로젝트 시연</h2>
-  <img src=""/>
+  	<h2>프로젝트 시연</h2>
+  	<img src="https://user-images.githubusercontent.com/94223526/209672006-cdfb0568-ca10-411f-bb36-e0074a291a41.gif"/>
 </div>
 <div>
 	<h2>사용 기술 및 도구</h2>
@@ -30,6 +30,6 @@
 <br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
-	
+	<img src="https://img.shields.io/badge/visual%20studio%20code-blueviolet?style=flat-square&logo=VISUALSTUDIOCODE&logoColor=white"/>
 </div>
 <br>
